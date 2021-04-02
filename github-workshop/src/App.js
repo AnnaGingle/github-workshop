@@ -1,7 +1,4 @@
 import React from 'react'
-import { render } from 'react-dom'
-
-import logo from './logo.svg'
 import welcome from './images/Welcome.svg'
 import agenda from './images/Agenda.svg'
 import gittwo from './images/Basics2.svg'
